@@ -1,3 +1,10 @@
+/* 
+ * File:   queued.c
+ * Author: cisituplusnobel
+ *
+ * Created on November 26, 2018, 4:40 AM
+ */
+
 /*FILE DRIVER ADT QUEUE.H*/
 
 #include "../include/queue.h"
